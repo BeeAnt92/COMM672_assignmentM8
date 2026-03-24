@@ -270,6 +270,9 @@ footer img {
         justify-content: center;
         align-items: center;
     }
+    tr:nth-of-type(even) {
+        display: none;
+    }
 
     /* Community Page */
 
